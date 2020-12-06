@@ -1,12 +1,12 @@
 
-package irixstudios.blockery;
+package musicaflight.blockery;
 
 import java.io.File;
 import java.io.IOException;
 import java.net.URISyntaxException;
 import java.text.DecimalFormat;
 
-import irixstudios.blockery.MainClass.Screen;
+import musicaflight.blockery.MainClass.Screen;
 import musicaflight.avianutils.*;
 
 public class UpdateChecker {

@@ -1,9 +1,9 @@
 
-package irixstudios.blockery;
+package musicaflight.blockery;
 
 import static org.lwjgl.opengl.GL11.*;
 
-import irixstudios.blockery.Block.BlockColor;
+import musicaflight.blockery.Block.BlockColor;
 import musicaflight.avianutils.*;
 
 public class BlockeryLoadIcon {

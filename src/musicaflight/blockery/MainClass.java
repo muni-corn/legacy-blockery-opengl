@@ -1,12 +1,12 @@
 
-package irixstudios.blockery;
+package musicaflight.blockery;
 
 import static org.lwjgl.opengl.GL11.*;
 
 import java.io.File;
 
-import irixstudios.blockery.MainMenu.MainMenuScreen;
-import irixstudios.blockery.UpdateChecker.UpdateStatus;
+import musicaflight.blockery.MainMenu.MainMenuScreen;
+import musicaflight.blockery.UpdateChecker.UpdateStatus;
 import musicaflight.avianutils.*;
 
 public class MainClass extends AvianApp {

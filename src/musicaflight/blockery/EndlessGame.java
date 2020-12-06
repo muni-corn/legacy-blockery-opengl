@@ -1,13 +1,13 @@
 
-package irixstudios.blockery;
+package musicaflight.blockery;
 
 import static org.lwjgl.opengl.GL11.*;
 
 import java.util.Iterator;
 
-import irixstudios.blockery.Block.BlockColor;
-import irixstudios.blockery.EndlBlockProducer.EndlProducerType;
-import irixstudios.blockery.MainClass.Screen;
+import musicaflight.blockery.Block.BlockColor;
+import musicaflight.blockery.EndlBlockProducer.EndlProducerType;
+import musicaflight.blockery.MainClass.Screen;
 import musicaflight.avianutils.*;
 
 public class EndlessGame extends Game {

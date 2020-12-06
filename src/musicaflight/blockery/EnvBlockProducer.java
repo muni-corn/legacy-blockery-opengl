@@ -1,5 +1,5 @@
 
-package irixstudios.blockery;
+package musicaflight.blockery;
 
 import static org.lwjgl.opengl.GL11.*;
 

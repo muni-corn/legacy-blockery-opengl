@@ -1,5 +1,5 @@
 
-package irixstudios.blockery;
+package musicaflight.blockery;
 
 import musicaflight.avianutils.AvianImage;
 import musicaflight.avianutils.ImageBank;

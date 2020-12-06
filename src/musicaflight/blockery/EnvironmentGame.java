@@ -1,14 +1,14 @@
 
-package irixstudios.blockery;
+package musicaflight.blockery;
 
 import static org.lwjgl.opengl.GL11.*;
 
 import java.text.DecimalFormat;
 import java.util.Iterator;
 
-import irixstudios.blockery.Block.BlockColor;
-import irixstudios.blockery.EnvBlockProducer.ProducerType;
-import irixstudios.blockery.MainClass.Screen;
+import musicaflight.blockery.Block.BlockColor;
+import musicaflight.blockery.EnvBlockProducer.ProducerType;
+import musicaflight.blockery.MainClass.Screen;
 import musicaflight.avianutils.*;
 
 public class EnvironmentGame extends Game {

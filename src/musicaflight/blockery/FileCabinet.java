@@ -1,5 +1,5 @@
 
-package irixstudios.blockery;
+package musicaflight.blockery;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;

@@ -1,10 +1,10 @@
 
-package irixstudios.blockery;
+package musicaflight.blockery;
 
 import java.text.DecimalFormat;
 import java.util.*;
 
-import irixstudios.blockery.Block.BlockColor;
+import musicaflight.blockery.Block.BlockColor;
 import musicaflight.avianutils.*;
 
 public abstract class Game {

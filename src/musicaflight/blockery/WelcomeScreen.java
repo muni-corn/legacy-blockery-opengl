@@ -1,10 +1,9 @@
-
-package irixstudios.blockery;
+package musicaflight.blockery;
 
 import java.io.File;
 import java.util.ArrayList;
 
-import irixstudios.blockery.MainClass.Screen;
+import musicaflight.blockery.MainClass.Screen;
 import musicaflight.avianutils.*;
 
 public class WelcomeScreen {

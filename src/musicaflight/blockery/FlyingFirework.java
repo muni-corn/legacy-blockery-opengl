@@ -1,9 +1,9 @@
 
-package irixstudios.blockery;
+package musicaflight.blockery;
 
 import java.awt.Color;
 
-import irixstudios.blockery.Block.BlockColor;
+import musicaflight.blockery.Block.BlockColor;
 import musicaflight.avianutils.*;
 
 public class FlyingFirework {

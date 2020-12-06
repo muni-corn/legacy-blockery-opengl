@@ -1,15 +1,15 @@
 
-package irixstudios.blockery;
+package musicaflight.blockery;
 
 import static org.lwjgl.opengl.GL11.*;
 
 import java.io.File;
 import java.util.ArrayList;
 
-import irixstudios.blockery.Block.BlockColor;
-import irixstudios.blockery.MainClass.Screen;
-import irixstudios.blockery.UpdateChecker.UpdateStatus;
-import irixstudios.blockery.WelcomeScreen.Name;
+import musicaflight.blockery.Block.BlockColor;
+import musicaflight.blockery.MainClass.Screen;
+import musicaflight.blockery.UpdateChecker.UpdateStatus;
+import musicaflight.blockery.WelcomeScreen.Name;
 import musicaflight.avianutils.*;
 
 public class MainMenu {

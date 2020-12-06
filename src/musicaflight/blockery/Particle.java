@@ -1,7 +1,7 @@
 
-package irixstudios.blockery;
+package musicaflight.blockery;
 
-import irixstudios.blockery.Block.BlockColor;
+import musicaflight.blockery.Block.BlockColor;
 
 import java.awt.Color;
 
